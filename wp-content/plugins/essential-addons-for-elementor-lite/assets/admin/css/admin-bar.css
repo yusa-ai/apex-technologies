@@ -13,5 +13,5 @@
     top: 0px;
     left: 5px;
     opacity: .75;
-    background: url("/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/ea-icon-white.svg") no-repeat scroll center 8px/ 85%!important;
+    background: url("./../images/ea-icon-white.svg") no-repeat scroll center 8px/ 85%!important;
 }

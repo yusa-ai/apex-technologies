@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Apex Technologies</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Des technologies pour réinventer votre futur</description>
 	<lastBuildDate>Thu, 26 Dec 2019 13:36:16 +0000</lastBuildDate>
 	<language>fr-FR</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2019/11/cropped-ccdd9cf2-6193-4795-9389-b5d3f9634342-32x32.png</url>
+	<url>./../wp-content/uploads/2019/11/cropped-ccdd9cf2-6193-4795-9389-b5d3f9634342-32x32.png</url>
 	<title>Apex Technologies</title>
-	<link>/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

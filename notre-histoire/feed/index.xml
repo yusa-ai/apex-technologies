@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires sur : Notre histoire	</title>
-	<atom:link href="/notre-histoire/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Des technologies pour réinventer votre futur</description>
 	<lastBuildDate>Mon, 02 Dec 2019 22:55:55 +0000</lastBuildDate>
 	<sy:updatePeriod>

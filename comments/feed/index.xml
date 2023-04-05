@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commentaires pour Apex Technologies	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Des technologies pour réinventer votre futur</description>
 	<lastBuildDate>Thu, 26 Dec 2019 13:36:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
